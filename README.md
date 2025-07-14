@@ -1,4 +1,4 @@
-# Final Project - Data Science B.Sc. Program - TAU - 2025: Speech Decoding from Brain's Single Neuron Recordings Using Deep Learning Architectures
+# Final Project - Data Science B.Sc. Program - TAU - October 2024 - July 2025: Speech Decoding from Brain's Single Neuron Recordings Using Deep Learning Architectures
 Individuals with neurological disorders, e.g. ALS, brain stem stroke or brain injury, may experience
 significant impairments in their ability to speak, leaving them unable to communicate even their
 most basic needs. In this project, we aimed to tackle this important problem by developing a model
