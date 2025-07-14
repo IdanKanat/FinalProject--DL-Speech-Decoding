@@ -19,3 +19,7 @@ classification of two vowel sounds from the neural recordings of a single patien
 this further, extending it to more phonemes and more patients. Ultimately, this project could pave
 the way for brain-computer interfaces (BCIs) that will restore speech communication in completely
 paralyzed patients.
+
+The full implementation details can be found in the [Final Report (PDF)]() and in the [Executive Summary (PDF)](), in the repo. 
+
+Due to patient's privacy, the project's data & code could not be revealed here.
