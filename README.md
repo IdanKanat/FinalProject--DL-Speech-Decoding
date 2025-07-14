@@ -1,4 +1,5 @@
-# Final Project - Decoding of Speech Features from Single Neuron Recordings from the Human Brain - Data Science B.Sc. Program - TAU - 2025
+# Final Project - Data Science B.Sc. Program - TAU - 2025 - 
+# Decoding of Speech Features from Single Neuron Recordings from the Human Brain
 Individuals with neurological disorders, e.g. ALS, brain stem stroke or brain injury, may experience
 significant impairments in their ability to speak, leaving them unable to communicate even their
 most basic needs. In this project, we aimed to tackle this important problem by developing a model
