@@ -27,3 +27,5 @@ The full implementation details can be found in the [Final Report (PDF)](https:/
 Due to patients' privacy, the project's data & code could not be revealed here.
 
 ![_](https://github.com/IdanKanat/FinalProject--DL-Speech-Decoding/blob/38c7d2c83ac8ec7dd08cdbb2a92315f66634b4e3/Final%20Project%20-%20Speech%20Recognition%20(using%20DL)%20from%20Single%20Neuron%20Recordings%20-%20Theme%20Pic%20FINAL.jpeg)
+
+![_](https://github.com/IdanKanat/FinalProject--DL-Speech-Decoding/blob/216729a692fcef4068dc2478994b9f62c11c1e47/FInalProject_DS_Award_2025.jpeg)
