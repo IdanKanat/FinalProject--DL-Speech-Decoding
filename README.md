@@ -20,7 +20,7 @@ this further, extending it to more phonemes and more patients. Ultimately, this 
 the way for brain-computer interfaces (BCIs) that will restore speech communication in completely
 paralyzed patients.
 
-The project was conducted throughout October 2024 until July 2025, and was selected as one of the outstanding projects of our program (2025).
+The project was done throughout October 2024 until July 2025, and was selected as one of the outstanding projects of our program (2025).
 
 The full implementation details can be found in the [Final Report (PDF)](https://github.com/IdanKanat/FinalProject--DL-Speech-Decoding/blob/92c73394e4d703d0200a5b41a86ebf47b0a8c02c/Final%20Project%20Report%20%20-%20Speech%20Decoding%20(Using%20DL)%20from%20Single%20Neuron%20Recordings%20-%20Eadan%20Schechter%20%26%20Idan%20Kanat%20-%2014.7.2025.pdf) and in the [Executive Summary (PDF)](https://github.com/IdanKanat/FinalProject--DL-Speech-Decoding/blob/bc8d634ef9b51c5e9de8fe3989901c70704087ab/Final%20Project%20-%20Executive%20Summary%20%20-%20Speech%20Decoding%20(Using%20DL)%20from%20Single%20Neuron%20Recordings%20-%20Eadan%20Schechter%20%26%20Idan%20Kanat%20-%2014.7.2025.pdf), in the repo. 
 
