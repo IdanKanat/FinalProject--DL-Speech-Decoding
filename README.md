@@ -31,5 +31,5 @@ Due to patients' privacy, the project's data & code could not be revealed here.
 [The Project's Poster:](https://github.com/IdanKanat/FinalProject--DL-Speech-Decoding/blob/da7d3c12b259bc41cdf22774527806c73ed0c415/Final%20Project%20-%20Final%20Poster%20-%2012.6.2025.pdf)
 ![_](https://github.com/IdanKanat/FinalProject--DL-Speech-Decoding/blob/5f74ecbc1c060adda31f2cae82721e0fd22702f1/Final%20Project%20-%20Final%20Poster%20(IMAGE)%20-%2012.6.2025.jpeg)
 
-![_](https://github.com/IdanKanat/FinalProject--DL-Speech-Decoding/blob/216729a692fcef4068dc2478994b9f62c11c1e47/FInalProject_DS_Award_2025.jpeg)
+![_](https://github.com/IdanKanat/FinalProject--DL-Speech-Decoding/blob/f533b738a477a5b03cf9a88e7dbf83fd975ad26e/FInalProject_DS_Award_2025.jpeg)
 
